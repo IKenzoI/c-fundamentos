@@ -43,5 +43,50 @@ namespace WindowsFormsApp2
         {
             new Form2().Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnChamarForm3_Click(object sender, EventArgs e)
+        {
+            new Form3().Show();
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            new frmPoupanca().Show();
+        }
+
+        private void Button6_Click(object sender, EventArgs e)
+        {
+            new Form4().Show();
+        }
+
+        private void Button7_Click(object sender, EventArgs e)
+        {
+            new frmDatas().Show();
+        }
+
+        private void Button8_Click(object sender, EventArgs e)
+        {
+            new frmEnum().Show();
+        }
+
+        private void Button9_Click(object sender, EventArgs e)
+        {
+            new frmArray().Show();
+        }
+
+        private void Button10_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Button10_Click_1(object sender, EventArgs e)
+        {
+            new FrmAlunos().Show();
+        }
     }
 }

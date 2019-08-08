@@ -58,6 +58,48 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlunos.Designer.cs">
+      <DependentUpon>FrmAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArray.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArray.Designer.cs">
+      <DependentUpon>frmArray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatas.Designer.cs">
+      <DependentUpon>frmDatas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnum.Designer.cs">
+      <DependentUpon>frmEnum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPoupanca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPoupanca.Designer.cs">
+      <DependentUpon>frmPoupanca.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -65,6 +107,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlunos.resx">
+      <DependentUpon>FrmAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArray.resx">
+      <DependentUpon>frmArray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatas.resx">
+      <DependentUpon>frmDatas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnum.resx">
+      <DependentUpon>frmEnum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPoupanca.resx">
+      <DependentUpon>frmPoupanca.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
